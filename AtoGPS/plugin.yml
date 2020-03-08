@@ -1,0 +1,9 @@
+name: AtoGPS
+main: GPS\Main
+author: Puki
+version: 1.0.0
+api: 3.10.0
+
+commands:
+ 네비게이션:
+  description: 네비게이션 명령어
